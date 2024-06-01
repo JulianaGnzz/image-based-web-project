@@ -1,6 +1,11 @@
-/* comence con mis estilos */
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
 
 *{
     padding:0;
     margin: 0;
+    font-family: "Sevillana", cursive;
+}
+
+p{
+    color: blueviolet;
 }
